@@ -29,7 +29,8 @@ SELECT divisions.division_name, COUNT(members.member_id) as count
 	GROUP BY divisions.division_name
 ;
 ```
-
+<img src="screenshot.png"
+     style="float: left; margin-right: 10px;" />
 
 
 
